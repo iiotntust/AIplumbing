@@ -1,7 +1,11 @@
 # The plumbing product development process applies artificial intelligent
 This project introduces artificial intelligence technology into plumbing product development to improve overall processing efficiency and reduce personnel workload. 
-# Project Description 
-This project consists of Parts specification normalization, Picture-to-Picture matching (Machine Learning), and a database of plumbing parts. Parts specification normalization
+## Project Description 
+This project consists of three portions,
+1. Parts specification normalization
+2. Picture-to-Picture matching (Machine Learning)
+3. Database of plumbing parts.
+Parts specification normalization
 
 ## Objective: 
 I am learning how to design the controller for an omnidirectional robot and implement it on a prototype regarding the simulation model. 
