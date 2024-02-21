@@ -1,8 +1,7 @@
 # AIplumbing
-# Omnibot
-Design a controller for a four-wheel Omni-directional robot and verify it on a prototype. 
-Project:
-Omni-directional Robot controller design and verification on self-build prototype
+This project introduces artificial intelligence technology into plumbling product development to improve overall processing efficiency and reduce personnel workload. 
+# Project Description 
+This project consisits three portions: Parts specification normalization, Picture-to-Picture matching (Machine Learning), and database of plumbling parts. Parts specification normalization
 
 ## Objective: 
 Learning how to design the controller for an Omni-directional Robot and implement it on a prototype regarding the simulation model. 
