@@ -15,7 +15,6 @@ This project consists of three portions,
 - Picture 
 - Drawing (pdf, 2D, 3D CAD)
 - Sample
-![image](https://github.com/iiotntust/AIplumbing/assets/56021651/77bb562e-56fb-4c3e-9258-ff5a78fe9cb7)
 #### Picture-to-picture searching:
 ![image](https://github.com/iiotntust/AIplumbing/assets/56021651/e2f904a8-b84c-4819-88ed-abcc6474cfb5)
 #### Samples to 3D-model and 2D-drawing
