@@ -25,7 +25,8 @@ This project consists of three portions,
 ![image](https://github.com/iiotntust/AIplumbing/assets/56021651/fc29c873-992d-49f7-ab05-d095877470eb)
 #### Facilities and Experiment
 - 3D scanner and printer
-![image](https://github.com/iiotntust/AIplumbing/assets/56021651/6b36cff3-6ccf-4772-84ec-be147853d0bc)
+<img width="411" alt="image" src="https://github.com/iiotntust/AIplumbing/assets/56021651/99543ea9-bdc6-472c-abf8-b0b07e1bc496">
+
 - Faucets
 ![image](https://github.com/iiotntust/AIplumbing/assets/56021651/cfacb6e6-7644-4137-a43f-cee4af144388)
 ### AI technology - matching 
